@@ -8,6 +8,7 @@ Duplicate was removed using count distinct, Change mispelling, Standardize data 
 ## Data Modelling
 Multiple tables were linked by joining(inner, , left , outer and right) to link and fetch informations e.g left joining
 t_departments and t_dept_emp.
+Used an inner joinning to join table t_departments and t_dept_emp and also fetch total number of both table.
 
 ## Data vizualization
 This is the result or oucome of queried dataset which also implement the result in the database.
