@@ -3,7 +3,8 @@
 ## Business Objectives
 This project is targeted towards tracking the salaries of employee based on department, hire date, performance, and gender.
 ## Data Cleaning
-Duplicate was removed using count distinct, Change mispelling, Standardize data type etc.
+Duplicate was removed using count distinct and to remove the number of redundant staff with no identity from
+the payroll. Also changed mispelling, Standardize data type to help make informed decision, etc.
 
 ## Data Modelling
 Multiple tables were linked by joining(inner, , left , outer and right) to link and fetch informations e.g left joining
